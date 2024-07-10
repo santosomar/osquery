@@ -9,3 +9,4 @@ timeout-decorator
 
 # For building the wiki
 mkdocs
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
